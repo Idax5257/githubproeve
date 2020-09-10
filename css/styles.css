@@ -34,3 +34,12 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+header{
+    margin: 20px;
+    color: grey;
+    text-align: center;
+    grid: none;
+    font-family: "Andale Mono";
+    font-size: 35px;
+}
