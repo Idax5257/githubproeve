@@ -38,6 +38,7 @@ img {
 .header{
     margin: 20px;
     color: grey;
+    background-color: grey;
     text-align: center;
     grid: none;
     font-size: 35px;
